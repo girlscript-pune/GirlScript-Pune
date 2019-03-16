@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## GirlScript Pune
 
-You can use the [editor on GitHub](https://github.com/girlscript-pune/girlscriptpune.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+GirlScript is a tech community,  section-8 company registered under Government of India in 36 cities of India and 3 international chapters. GirlScript is open for all community & supports diversity and wants to bring equality in tech. GirlScript and its different initiatives are driven by leaders throughout the world.
+For more information, visit [GirlScript]( http://www.girlscript.tech/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Open the link below for Registration
+[Registration Link](bit.ly/gspc-register)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+For Updates, visit our [Facebook](https://www.facebook.com/girlscriptpunecommunity) & [Instagram](https://instagram.com/girlscriptpune?utm_source=ig_profile_share&igshid=cemnxa20h74o) profile.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/girlscript-pune/girlscriptpune.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Contact Support](girkscript@mitaoe.ac.in) and we’ll help you sort it out.
