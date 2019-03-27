@@ -7,8 +7,13 @@ For more information, visit [GirlScript]( http://www.girlscript.tech/)
 ### Open the link below for Registration
 [Registration Link](bit.ly/gspc-register)
 
+### GirlScript Inauguration
+[Click here for Registeration](https://goo.gl/forms/lamsx4jocg0zZ)
+
 
 For Updates, visit our [Facebook](https://www.facebook.com/girlscriptpunecommunity) & [Instagram](https://instagram.com/girlscriptpune?utm_source=ig_profile_share&igshid=cemnxa20h74o) profile.
+
+
 
 
 
