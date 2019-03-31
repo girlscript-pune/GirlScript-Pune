@@ -8,7 +8,7 @@ For more information, visit [GirlScript]( http://www.girlscript.tech/)
 [Registration Link](bit.ly/gspc-register)
 
 ### GirlScript Inauguration
-Do visit: [Facebook](https://www.facebook.com/434876500388347/posts/441876239688373?sfns=mo)
+
 
 
 
