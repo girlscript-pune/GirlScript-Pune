@@ -8,7 +8,7 @@ For more information, visit [GirlScript]( http://www.girlscript.tech/)
 [Registration Link](bit.ly/gspc-register)
 
 ### GirlScript Inauguration
-[Inauguration](GS Inau.scr)
+
 
 
 
