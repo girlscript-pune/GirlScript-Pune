@@ -10,6 +10,8 @@ For more information, visit [GirlScript]( http://www.girlscript.tech/)
 ### GirlScript Inauguration
 ### Cloud Study Jam
 
+Registrations open for [Codepreneur!](http://codepreneur.in/)
+
 
 
 
