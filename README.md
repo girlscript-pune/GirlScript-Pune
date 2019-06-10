@@ -12,7 +12,8 @@ For more information, visit [GirlScript]( http://www.girlscript.tech/)
 
 Registrations open for [Codepreneur!](http://codepreneur.in/)
 
-
+GirlScript as a partner of Drupal Camp Delhi
+Can visit [Drupal Camp Delhi](http://2019.drupalcampdelhi.com/) for more info
 
 
 For Updates, visit our [Facebook](https://www.facebook.com/girlscriptpunecommunity) & [Instagram](https://instagram.com/girlscriptpune?utm_source=ig_profile_share&igshid=cemnxa20h74o) profile.
