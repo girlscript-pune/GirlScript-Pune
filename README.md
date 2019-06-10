@@ -10,10 +10,11 @@ For more information, visit [GirlScript]( http://www.girlscript.tech/)
 ### GirlScript Inauguration
 ### Cloud Study Jam
 
-Registrations open for [Codepreneur!](http://codepreneur.in/)
+###Registrations open for [Codepreneur!](http://codepreneur.in/)
 
-GirlScript as a partner of Drupal Camp Delhi
-Can visit [Drupal Camp Delhi](http://2019.drupalcampdelhi.com/) for more info
+
+###GirlScript as a partner of Drupal Camp Delhi
+for more info, visit [Drupal Camp Delhi](http://2019.drupalcampdelhi.com/)
 
 
 For Updates, visit our [Facebook](https://www.facebook.com/girlscriptpunecommunity) & [Instagram](https://instagram.com/girlscriptpune?utm_source=ig_profile_share&igshid=cemnxa20h74o) profile.
